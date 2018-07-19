@@ -3,5 +3,10 @@ welcome
 Hi i am bubai.
 I am from india.
 I love to code.
- I am working as a junior software developer.
- Spcially working in java technology.
+I am working as a junior software developer.
+Spcially working in java technology.
+
+I want to be a developer.
+
+
+Thank you.
